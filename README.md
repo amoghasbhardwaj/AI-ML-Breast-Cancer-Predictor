@@ -1,4 +1,4 @@
-# AI-ML-Breast-Cancer-Predictor
+# AI-ML Breast Cancer Predictor
 
 From the data set obtained from Hospital and AI algorithm we predict the accuracy of abnormalties in Genes from which we can predict if the person is having Malignant or Benign type of Breast Cancer.
 
